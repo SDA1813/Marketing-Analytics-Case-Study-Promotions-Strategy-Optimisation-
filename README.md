@@ -42,7 +42,7 @@ promotion or incentive benefit/am,ount.
 (Minimum Spending Requirement, Maximum Spending Months – Ralted to members who gets
 incentive when they spend money from their tide account).
 
-Trabsformation of Data:
+Transformation of Data:
 Data Collation and Preparation
 The first step in the analysis was to bring together all the raw data from different sources into one main file a
 Master Sheet (also called a “Single Source of Truth”). This was done using Power Query in Excel to merge
